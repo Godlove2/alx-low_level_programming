@@ -2,7 +2,7 @@
 /**
  * main - Program that prints the size of the various types of computers
  * Return: 0(Success)
- */
+*/
 int main(void)
 {
 	printf("Size of char: %lu byte(s)\n", sizeof(char)
